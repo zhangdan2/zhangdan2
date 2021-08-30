@@ -1,0 +1,90 @@
+ Thu, 27 May 2021 17:07:49  INFO logger.py <module> [ line:17 ] 开始记录日志
+ Thu, 27 May 2021 17:08:10  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[@placeholder="请输入手机号"]') 可见。
+ Thu, 27 May 2021 17:08:10  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:10.598665，结束等待时间点：2021-05-27 17:08:10.631608，等待时长为：0:00:00.032943
+ Thu, 27 May 2021 17:08:10  INFO basepage.py get_element [ line:44 ] 查找 登陆页面_输入用户名 中的元素 ('xpath', '//*[@placeholder="请输入手机号"]') 
+ Thu, 27 May 2021 17:08:10  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:10  INFO basepage.py input [ line:104 ]  给元素 ('xpath', '//*[@placeholder="请输入手机号"]') 输入文本内容:(17671874915,)
+ Thu, 27 May 2021 17:08:10  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[@placeholder="请输入验证码"]') 可见。
+ Thu, 27 May 2021 17:08:10  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:10.788167，结束等待时间点：2021-05-27 17:08:10.820101，等待时长为：0:00:00.031934
+ Thu, 27 May 2021 17:08:10  INFO basepage.py get_element [ line:44 ] 查找 登陆页面_输入密码 中的元素 ('xpath', '//*[@placeholder="请输入验证码"]') 
+ Thu, 27 May 2021 17:08:10  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:10  INFO basepage.py input [ line:104 ]  给元素 ('xpath', '//*[@placeholder="请输入验证码"]') 输入文本内容:(868385,)
+ Thu, 27 May 2021 17:08:10  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[@class="el-button submintBtn el-button--primary"]') 可见。
+ Thu, 27 May 2021 17:08:10  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:10.892880，结束等待时间点：2021-05-27 17:08:10.919825，等待时长为：0:00:00.026945
+ Thu, 27 May 2021 17:08:10  INFO basepage.py get_element [ line:44 ] 查找 登陆页面_点击登陆按钮 中的元素 ('xpath', '//*[@class="el-button submintBtn el-button--primary"]') 
+ Thu, 27 May 2021 17:08:10  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:10  INFO basepage.py click [ line:68 ]  点击元素 ('xpath', '//*[@class="el-button submintBtn el-button--primary"]')
+ Thu, 27 May 2021 17:08:10  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[text()=" 小竹熊玩具云科技公司 "]') 可见。
+ Thu, 27 May 2021 17:08:12  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:10.963752，结束等待时间点：2021-05-27 17:08:12.388005，等待时长为：0:00:01.424253
+ Thu, 27 May 2021 17:08:12  INFO basepage.py get_element [ line:44 ] 查找 点击公司 中的元素 ('xpath', '//*[text()=" 小竹熊玩具云科技公司 "]') 
+ Thu, 27 May 2021 17:08:12  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:12  INFO basepage.py click [ line:68 ]  点击元素 ('xpath', '//*[text()=" 小竹熊玩具云科技公司 "]')
+ Thu, 27 May 2021 17:08:12  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[@class="icon productSearchIcon"]') 可见。
+ Thu, 27 May 2021 17:08:15  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:12.678856，结束等待时间点：2021-05-27 17:08:15.035596，等待时长为：0:00:02.356740
+ Thu, 27 May 2021 17:08:15  INFO basepage.py get_element [ line:44 ] 查找 点击产品查询主菜单 中的元素 ('xpath', '//*[@class="icon productSearchIcon"]') 
+ Thu, 27 May 2021 17:08:15  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:15  INFO basepage.py click [ line:68 ]  点击元素 ('xpath', '//*[@class="icon productSearchIcon"]')
+ Thu, 27 May 2021 17:08:15  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[@class="el-submenu is-opened"]/ul/li[1]/span[2]') 可见。
+ Thu, 27 May 2021 17:08:16  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:15.519654，结束等待时间点：2021-05-27 17:08:16.070513，等待时长为：0:00:00.550859
+ Thu, 27 May 2021 17:08:16  INFO basepage.py get_element [ line:44 ] 查找 点击产品查询子菜单 中的元素 ('xpath', '//*[@class="el-submenu is-opened"]/ul/li[1]/span[2]') 
+ Thu, 27 May 2021 17:08:16  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:16  INFO basepage.py click [ line:68 ]  点击元素 ('xpath', '//*[@class="el-submenu is-opened"]/ul/li[1]/span[2]')
+ Thu, 27 May 2021 17:08:16  INFO basepage.py get_element [ line:44 ] 查找 查找加购产品的按钮 中的元素 ('xpath', '//*[@class="bsGridComponent"]/div[1]/div[2]/div[2]/div[2]') 
+ Thu, 27 May 2021 17:08:18  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:20  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[@class="advancedBox"]') 可见。
+ Thu, 27 May 2021 17:08:20  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:20.712783，结束等待时间点：2021-05-27 17:08:20.740737，等待时长为：0:00:00.027954
+ Thu, 27 May 2021 17:08:20  INFO basepage.py get_element [ line:44 ] 查找 点击高级搜索 中的元素 ('xpath', '//*[@class="advancedBox"]') 
+ Thu, 27 May 2021 17:08:20  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:20  INFO basepage.py click [ line:68 ]  点击元素 ('xpath', '//*[@class="advancedBox"]')
+ Thu, 27 May 2021 17:08:20  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[@class="el-input el-input--medium el-input--suffix"]/input') 可见。
+ Thu, 27 May 2021 17:08:20  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:20.805544，结束等待时间点：2021-05-27 17:08:20.838473，等待时长为：0:00:00.032929
+ Thu, 27 May 2021 17:08:20  INFO basepage.py get_element [ line:44 ] 查找 点击包装方式下拉框 中的元素 ('xpath', '//*[@class="el-input el-input--medium el-input--suffix"]/input') 
+ Thu, 27 May 2021 17:08:20  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:20  INFO basepage.py click [ line:68 ]  点击元素 ('xpath', '//*[@class="el-input el-input--medium el-input--suffix"]/input')
+ Thu, 27 May 2021 17:08:20  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[text()="展示盒"]') 可见。
+ Thu, 27 May 2021 17:08:21  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:20.928208，结束等待时间点：2021-05-27 17:08:21.474990，等待时长为：0:00:00.546782
+ Thu, 27 May 2021 17:08:21  INFO basepage.py get_element [ line:44 ] 查找 选择展示盒 中的元素 ('xpath', '//*[text()="展示盒"]') 
+ Thu, 27 May 2021 17:08:21  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:21  INFO basepage.py click [ line:68 ]  点击元素 ('xpath', '//*[text()="展示盒"]')
+ Thu, 27 May 2021 17:08:21  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[@class="history_box"]/div/input') 可见。
+ Thu, 27 May 2021 17:08:21  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:21.546799，结束等待时间点：2021-05-27 17:08:21.574724，等待时长为：0:00:00.027925
+ Thu, 27 May 2021 17:08:21  INFO basepage.py get_element [ line:44 ] 查找 输入查询条件 中的元素 ('xpath', '//*[@class="history_box"]/div/input') 
+ Thu, 27 May 2021 17:08:21  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:21  INFO basepage.py input [ line:104 ]  给元素 ('xpath', '//*[@class="history_box"]/div/input') 输入文本内容:('狼人杀',)
+ Thu, 27 May 2021 17:08:21  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[text()="精准查询"]') 可见。
+ Thu, 27 May 2021 17:08:21  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:21.665480，结束等待时间点：2021-05-27 17:08:21.695408，等待时长为：0:00:00.029928
+ Thu, 27 May 2021 17:08:21  INFO basepage.py get_element [ line:44 ] 查找 点击精准查询 中的元素 ('xpath', '//*[text()="精准查询"]') 
+ Thu, 27 May 2021 17:08:21  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:21  INFO basepage.py click [ line:68 ]  点击元素 ('xpath', '//*[text()="精准查询"]')
+ Thu, 27 May 2021 17:08:21  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[@class="el-button el-button--primary el-button--medium"]') 可见。
+ Thu, 27 May 2021 17:08:21  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:21.746272，结束等待时间点：2021-05-27 17:08:21.777190，等待时长为：0:00:00.030918
+ Thu, 27 May 2021 17:08:21  INFO basepage.py get_element [ line:44 ] 查找 点击搜索按钮 中的元素 ('xpath', '//*[@class="el-button el-button--primary el-button--medium"]') 
+ Thu, 27 May 2021 17:08:21  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:21  INFO basepage.py click [ line:68 ]  点击元素 ('xpath', '//*[@class="el-button el-button--primary el-button--medium"]')
+ Thu, 27 May 2021 17:08:21  INFO basepage.py get_element [ line:44 ] 查找 查找狼人杀 中的元素 ('xpath', '//*[text()=" 狼人杀 "]') 
+ Thu, 27 May 2021 17:08:21  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:21  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[@class="bsGridComponent"]/div[1]/div[1]/div[1]/img') 可见。
+ Thu, 27 May 2021 17:08:21  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:21.843013，结束等待时间点：2021-05-27 17:08:21.871936，等待时长为：0:00:00.028923
+ Thu, 27 May 2021 17:08:21  INFO basepage.py get_element [ line:44 ] 查找 鼠标悬停第一个产品 中的元素 ('xpath', '//*[@class="bsGridComponent"]/div[1]/div[1]/div[1]/img') 
+ Thu, 27 May 2021 17:08:21  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:21  INFO basepage.py xuanting [ line:85 ]  鼠标悬停 ('xpath', '//*[@class="bsGridComponent"]/div[1]/div[1]/div[1]/img')
+ Thu, 27 May 2021 17:08:23  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素 ('xpath', '//*[@class="bsGridComponent"]/div[1]/div[1]/div[1]/img') 可见。
+ Thu, 27 May 2021 17:08:23  INFO basepage.py wait_eleVisible [ line:29 ] 开始等待时间点：2021-05-27 17:08:23.694292，结束等待时间点：2021-05-27 17:08:23.717038，等待时长为：0:00:00.022746
+ Thu, 27 May 2021 17:08:23  INFO basepage.py get_element [ line:44 ] 查找 点击第一个产品 中的元素 ('xpath', '//*[@class="bsGridComponent"]/div[1]/div[1]/div[1]/img') 
+ Thu, 27 May 2021 17:08:23  INFO basepage.py get_element [ line:47 ] 查找元素成功
+ Thu, 27 May 2021 17:08:23  INFO basepage.py click [ line:68 ]  点击元素 ('xpath', '//*[@class="bsGridComponent"]/div[1]/div[1]/div[1]/img')
+ Thu, 27 May 2021 17:08:25  INFO basepage.py get_element [ line:44 ] 查找 获取包装字段文本 中的元素 ('xpath', '//*[@id="pane-P161824861468679"]/div/div/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/span') 
+ Thu, 27 May 2021 17:08:35  ERROR basepage.py get_element [ line:51 ] 查找元素失败
+Traceback (most recent call last):
+  File "E:\web_Xiao_Zhu_Xiong\Common\basepage.py", line 46, in get_element
+    ele = self.driver.find_element(*loc)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="pane-P161824861468679"]/div/div/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/span"}
+  (Session info: chrome=91.0.4472.77)
+
+ Thu, 27 May 2021 17:08:36  INFO basepage.py save_web_screenshot [ line:154 ] 网页截图成功。图片存储在：E:\web_Xiao_Zhu_Xiong\Outputs/screenshots/获取包装字段文本_2021-05-27 17_08_35.png
